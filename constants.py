@@ -1,0 +1,15 @@
+MODEL_NAMES=[
+    "Base LSTM",
+    "Base GBDT",
+    "Base ELM",
+    "LSTM + PSO",
+    "LSTM + GWO",
+    "ELM + PSO",
+    "ELM + GWO",
+    "GBDT + PSO",
+    "GBDT + GWO",
+    "LSTM + PSO-GWO",
+    "ELM + PSO-GWO",
+    "GBDT + PSO-GWO",
+    "\u2605 Adaptive Dual-Phase PSO-GWO LSTM",
+]
